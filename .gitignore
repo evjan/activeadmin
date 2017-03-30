@@ -47,3 +47,4 @@ public
 .rbenv-version
 .localeapp/*
 lib/bug_report_templates/tmp
+gemfiles/bin
